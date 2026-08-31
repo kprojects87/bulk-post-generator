@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Bulk Post Generator
- * Plugin URI:  https://khi.freepage.cc/wp/
+ * Plugin URI:  https://github.com/kprojects87/bulk-post-generator
  * Description: Generate 6 blog post drafts at a time from a clean, modern admin dashboard — using built-in templates only, with optional free stock-photo featured images. No API key or external service required.
  * Version:     1.0.0
  * Author:      Your Name
