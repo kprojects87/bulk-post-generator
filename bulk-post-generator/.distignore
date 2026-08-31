@@ -1,0 +1,12 @@
+# Files/folders excluded when building the WordPress.org submission package.
+# This repo (GitHub) keeps these; the WordPress.org release does not.
+.git
+.gitignore
+.distignore
+.github
+README.md
+*.zip
+node_modules
+.DS_Store
+Thumbs.db
+build-wporg-zip.bat
