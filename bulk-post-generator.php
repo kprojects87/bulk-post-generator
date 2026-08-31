@@ -40,7 +40,7 @@ register_activation_hook( __FILE__, function () {
 		add_option(
 			'bpg_settings',
 			array(
-				'generate_images'   => false,
+				'generate_images'   => true,
 				'default_category'  => get_option( 'default_category' ),
 				'post_status'       => 'draft',
 				'word_count'        => 'medium',
