@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Bulk Post Generator
- * Plugin URI:  https://example.com/bulk-post-generator
+ * Plugin URI:  https://khi.freepage.cc/wp/
  * Description: Generate 6 blog post drafts at a time from a clean, modern admin dashboard — using built-in templates only, with optional free stock-photo featured images. No API key or external service required.
  * Version:     1.0.0
  * Author:      Your Name
- * Author URI:  https://example.com
+ * Author URI:  https://khi.freepage.cc/wp/
  * License:     GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: bulk-post-generator
